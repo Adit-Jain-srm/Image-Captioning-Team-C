@@ -1,0 +1,4 @@
+# Trained models and tokenizers will be saved here
+# - best_model.h5
+# - tokenizer.pkl
+
