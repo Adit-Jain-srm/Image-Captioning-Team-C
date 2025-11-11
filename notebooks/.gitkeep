@@ -1,0 +1,12 @@
+# Jupyter notebooks for each section will be placed here
+# - 01_data_preparation.ipynb
+# - 02_caption_processing.ipynb
+# - 03_feature_extraction.ipynb
+# - 04_sequence_creation.ipynb
+# - 05_model_architecture.ipynb
+# - 06_model_training.ipynb
+# - 07_evaluation.ipynb
+# - 08_fine_tuning.ipynb
+# - 09_results_analysis.ipynb
+# - 10_export_submission.ipynb
+
