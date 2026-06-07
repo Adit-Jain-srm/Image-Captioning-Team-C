@@ -1,4 +1,21 @@
-# Image Captioning Using Deep Learning
+<div align="center">
+
+# Image Captioning
+
+**Deep Learning Image-to-Text Generation**
+
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-EE4C2C?logo=pytorch)](https://pytorch.org/)
+[![Computer Vision](https://img.shields.io/badge/Computer_Vision-CNN-5C3EE8?logo=opencv)](https://opencv.org/)
+[![NLP](https://img.shields.io/badge/NLP-Transformer-09A3D5)](https://huggingface.co/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/Adit-Jain-srm/Image-Captioning-Team-C)](https://github.com/Adit-Jain-srm/Image-Captioning-Team-C)
+
+*Generating natural language descriptions of images using encoder-decoder neural networks.*
+
+</div>
+
+---
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
